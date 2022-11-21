@@ -1,2 +1,2 @@
 # carbon
-Time serries forcasting of UK electricity carbon intensity
+Time series forcasting of UK electricity carbon intensity
